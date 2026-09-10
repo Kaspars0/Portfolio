@@ -9,20 +9,21 @@ const projectsData = [
   },
   {
     id: 2,
-    title: "Laika Apstākļu Lietotne",
-    description: "Aplikācija, kas parāda reāllaika laika ziņas, izmantojot OpenWeather API.",
-    tags: ["React", "API", "JavaScript"],
-    link: "#",
+    title: "Quiz Lietotne",
+    description: "Interaktīva viktorīnas lietotne ar jautājumiem, atbilžu izvēli un rezultātu uzskaiti.",
+    tags: ["Laravel", "PHP", "CSS", "JavaScript"],
+    link: "https://github.com/KasparsTopG/Quiz",
     image: ""
   },
   {
     id: 3,
-    title: "Uzdevumu Pārvaldnieks",
-    description: "Interaktīvs To-Do saraksts ar uzdevumu saglabāšanu brauzera atmiņā.",
-    tags: ["React", "LocalStorage"],
-    link: "#",
+    title: "Blog Lietotne",
+    description: "Mūsdienīga bloga lietotne rakstu publicēšanai, apskatīšanai un satura pārvaldībai.",
+    tags: ["Laravel", "PHP", "CSS", "JavaScript"],
+    link: "https://github.com/KasparsTopG/blogs",
     image: ""
-  }
+  },
+  
 ]
 
 export default function Projects() {
