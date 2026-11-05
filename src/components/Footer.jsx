@@ -13,7 +13,7 @@ export default function Footer() {
           <div className="footer-contact">
             <a href="mailto:ipa24.k.sokolovs@vtdt.edu.lv" className="footer-email">ipa24.k.sokolovs@vtdt.edu.lv</a>
             <div className="social-links">
-              <a href="https://github.com/KasparsTopG" target="_blank" rel="noreferrer">GitHub</a>
+              <a href="https://github.com/Kaspars0" target="_blank" rel="noreferrer">GitHub</a>
             </div>
           </div>
         </div>

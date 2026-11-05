@@ -4,7 +4,7 @@ const projectsData = [
     title: "E-Classroom",
     description: "Interaktīva e-klases sistēma skolēnu un mācību procesu pārvaldībai.",
     tags: ["Laravel", "PHP", "CSS", "JavaScript"],
-    link: "https://github.com/KasparsTopG/Classroom",
+    link: "https://github.com/Kaspars0/Classroom",
     image: "/images/classroom.png"
   },
   {
@@ -12,7 +12,7 @@ const projectsData = [
     title: "Quiz Lietotne",
     description: "Interaktīva viktorīnas lietotne ar jautājumiem, atbilžu izvēli un rezultātu uzskaiti.",
     tags: ["Laravel", "PHP", "CSS", "JavaScript"],
-    link: "https://github.com/KasparsTopG/Quiz",
+    link: "https://github.com/Kaspars0/Quiz",
     image: ""
   },
   {
@@ -20,7 +20,7 @@ const projectsData = [
     title: "Blog Lietotne",
     description: "Mūsdienīga bloga lietotne rakstu publicēšanai, apskatīšanai un satura pārvaldībai.",
     tags: ["Laravel", "PHP", "CSS", "JavaScript"],
-    link: "https://github.com/KasparsTopG/blogs",
+    link: "https://github.com/Kaspars0/blogs",
     image: ""
   },
   

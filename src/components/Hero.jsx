@@ -6,6 +6,7 @@ export default function Hero() {
             <span className="badge">Sveicināti</span>
             <h1>Esmu<br /><span className="highlight">Kaspars Sokolovs</span></h1>
             <p className="subtitle">Programmēšanas tehniķis</p>
+            <p className="subtitle">Esmu Vidzemes Tehnoloģiju un dizaina tehnikuma students, kuram ļoti patīk programmēšana un darbs ar tehnoloģijām. Esmu atbildīgs, centīgs un mērķtiecīgs. Man patīk apgūt jaunas zināšanas, pilnveidot savas prasmes un vienmēr censties būt labākajam savā darbā.</p>
             <div className="hero-buttons">
               <a href="#projects" className="btn btn-primary">Apskatīt darbus</a>
               <a href="#contact" className="btn btn-secondary">Sazināties</a>
